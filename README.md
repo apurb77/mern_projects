@@ -1,2 +1,2 @@
 # mern_projects
-All projects related to full stack web dev.
+projects related to full stack web dev.
